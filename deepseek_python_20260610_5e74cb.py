@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
 # ====== 配置 ======
-BOT_TOKEN = "你的BOT_TOKEN"   # 替换成你的真实Token
+BOT_TOKEN = "8728500201:AAHG4NtfylhyVDxVuk7MetzoGsmIRSDSuAM"   # 替换成你的真实Token
 MAINTENANCE_MARGIN_RATE = 0.005  # 维持保证金率 0.5%，可根据交易所调整
 # =================
 
